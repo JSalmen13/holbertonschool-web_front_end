@@ -1,0 +1,12 @@
+/* smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+/* body a*/
+body, a {
+    color: #161616;
+}
+
+.card-category, .section-tagline {
+    color: #D73953;
+}
