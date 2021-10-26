@@ -1,0 +1,14 @@
+/*more var*/
+$basecolor: #3D3D3D;
+$bgcolor: #6D6D6D;
+
+body {
+    color: $basecolor;
+    background-color: $bgcolor;
+}
+p {
+    color: $basecolor;
+}
+h2 {
+    background-color: $bgcolor;
+}
