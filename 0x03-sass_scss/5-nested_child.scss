@@ -1,0 +1,9 @@
+/*nested class*/
+$basecolor: #3D3D3D;
+$mcolor: #FF0000;
+body {
+    color: $basecolor;
+    > .red {
+        color: $mcolor;
+    }
+}
