@@ -1,0 +1,9 @@
+/*nested hover*/
+$bc: #FF0000;
+$bch: #00FF00;
+button {
+    color: $bc;
+    &:hover {
+        color: $bch;
+    }
+}
