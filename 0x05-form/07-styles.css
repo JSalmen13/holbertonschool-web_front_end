@@ -816,13 +816,13 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
 
   /*** SEARCH FORM ***/
 
-  .search-form {
+  .form-search {
       display: block;
       padding: .5rem 0;
       position: relative;
   }
 
-  .sform-search .search-button {
+  .form-search .search-button {
       display: inline-block;
       background: transparent;
       border: 0;
@@ -862,4 +862,3 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
       margin: 0 1rem;
   }
 
-  
